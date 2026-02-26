@@ -1,7 +1,9 @@
-﻿CourseID,StudentID,Score
-3500,101,75
-3500,102,87
-4500,101,93
-4500,104,75
-3180,103,95
-3180,102,88
+﻿FirstName,LastName,Age,Gender,Major,Income
+Barney,Stinson,22,Male,Magic,2340
+Marshall,Eriksen,21,Male,Law,16547
+Lily,Aldrin,20,Female,Art,8900
+Robin,Scherbatsky,23,Female,,3445
+Ted,Mosby,23,Male,Architecture,6786
+Jason,Smith,22,,Law,1501
+Kristen,Wasserman,21,Female,Art,4522
+Peter,Pen,34,Male,Magic,1651
